@@ -1,0 +1,8 @@
+.idea
+__pycache__
+gpt2/
+sms_spam_collection
+*.pdf
+data/
+*.pth
+ch04-1/
