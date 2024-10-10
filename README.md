@@ -1,4 +1,4 @@
-# BuildingLargeLanguageModel
+# BuildingALargeLanguageModel
 
 《构建大语言模型》第八版练习代码
 
